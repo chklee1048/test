@@ -64,6 +64,7 @@ public class WishObj {
 		this.wish1 = wish1;
 		this.wish2 = wish2;
 		this.wish3 = wish3;
+		this.wish3 = wish3;
 
 	}
 	public WishObj(String wish1, String wish2) {
